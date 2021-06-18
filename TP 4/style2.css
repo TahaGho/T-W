@@ -1,0 +1,35 @@
+#triangle {
+  width: 0px;
+  height: 0px;
+  border-left: 100px solid transparent ;
+  border-top: 100px solid red ;
+  border-right: 100px solid transparent ;
+}
+#FormeOvale {
+  width: 200px;
+  height: 100px;
+  background: dodgerblue;
+  border-radius: 100%
+}
+#virtualization {
+  height: 350px ;
+  width: 300px;
+  border-left: 15px solid transparent ;
+  border-top: 1px solid transparent ;
+  border-right: 15px solid transparent ;
+  border-bottom: 25px solid transparent ;
+  background: dodgerblue ;
+  border-radius: 5% ;
+  box-shadow: 0px 5px 10px gray ;
+}
+#TitleShadow {
+  text-shadow: 0px 3px 10px black;
+}
+.CS{
+background-color: #E2FCFB;
+border-style:groove;
+border-left: none;
+border-right: none;
+border-color: #E2FCFB;
+border-width:thin;
+}
